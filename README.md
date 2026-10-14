@@ -1,4 +1,3 @@
-# STARTER-jpa03
 
 
 Running at: <https://jpa03-amayabratcher.dokku-09.cs.ucsb.edu>
